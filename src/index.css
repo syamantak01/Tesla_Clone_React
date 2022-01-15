@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url('../public/fonts/Gotham-Medium-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+   font-weight: 400;
+   font-style: normal;
+ }
+  
+ @font-face {
+  font-family: 'Gotham';
+  src: url('../public/fonts/gotham-light-webfont.woff') format('woff'); /* Modern Browsers */
+   font-weight: 300;
+   font-style: normal;
+ }
+
+
+*{
+  box-sizing: border-box; /*inclue padding and border in the element's total width*/
+  font-family: "Rubik", sans-serif; 
+  color: #393c41;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
+@keyframes animateDown {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+
+  40%{
+    transform: translateY(5px);
+  }
+
+  60%{
+    transform: translateY(3px);
+  }
+}
