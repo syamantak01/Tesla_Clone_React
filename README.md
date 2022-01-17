@@ -1,4 +1,4 @@
-### Tesla Clone
+# Tesla Clone
 
 This is a clone of Tesla webpage built with React, Redux, JavaScript, and CSS. Mainly used Styled Components feature of React to design the webpage. 
 
