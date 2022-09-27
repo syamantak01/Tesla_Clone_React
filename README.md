@@ -2,7 +2,7 @@
 
 This is a clone of Tesla webpage built with React, Redux, JavaScript, and CSS. Mainly used Styled Components feature of React to design the webpage. 
 
-## Project Link
+## Website Link
 https://glistening-cannoli-c04532.netlify.app
 
 
